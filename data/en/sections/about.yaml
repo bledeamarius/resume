@@ -79,8 +79,23 @@ badges:
 
 - type: certification
   name: Certified Kubernetes Administrator (CKA)
-  url: "https://www.credly.com/badges/f38fa840-1bc7-4b27-8fb3-e51633e627da
+  url: "https://www.credly.com/badges/f38fa840-1bc7-4b27-8fb3-e51633e627da"
   badge: "https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png"
+
+- type: certification
+  name: Certified Kubernetes Application Developer (CKAD)
+  url: "https://www.credly.com/badges/b45e98b1-7ef4-4870-af0d-e2bbcf421dad"
+  badge: "https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/twitter_thumb_201604_ckad_from_cncfsite.png"
+
+- type: certification
+  name: Kubernetes and Cloud Native Security Associate (KCSA)
+  url: "https://www.credly.com/badges/6ae84e5b-cfc5-4539-a5b2-7da7d8f577cc"
+  badge: "https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png"
+
+- type: certification
+  name: Kubernetes and Cloud Native Associate (KCNA)
+  url: "https://www.credly.com/badges/28adbe4e-55ce-4a46-8225-94981b8e9dc2"
+  badge: "https://th.bing.com/th/id/R.b7fc8025c0338f9fb0f163e318f8c081?rik=7B0He0LlfW3ZTQ&pid=ImgRaw&r=0"
 
 - type: soft-skill-indicator
   name: Leadership
