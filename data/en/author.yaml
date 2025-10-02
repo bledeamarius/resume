@@ -8,11 +8,11 @@ image: "images/author/john.png"
 contactInfo:
   email: "bledea.marius97@gmail.com"
   github: bledeamarius
-  linkedin: johndoe
+  linkedin: bledea-marius
 
 # some summary about what you do
 summary:
-  - I am a Devops
+  - I am a Devops Engineer
   - I am a Kubestronaut
   - I love Cloud Native technologies
   - I love using Terraform
