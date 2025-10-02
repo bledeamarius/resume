@@ -104,17 +104,17 @@ badges:
 
 - type: certification
   name: Azure Solutions Architect Expert (AZ-305)
-  url: "https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/"
+  url: "https://learn.microsoft.com/api/credentials/share/en-us/MariusBledea/640A06F906B5FD44?sharingId=D8E208BBDA770BE2"
   badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-solutions-architect-expert.svg"
 
 - type: certification
   name: Azure DevOps Engineer Expert (AZ-400)
-  url: "https://learn.microsoft.com/en-us/certifications/azure-devops-engineer/"
+  url: "https://learn.microsoft.com/api/credentials/share/en-us/MariusBledea/4F11C4C9590D5B50?sharingId=D8E208BBDA770BE2"
   badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-devops-engineer-expert.svg"
 
 - type: certification
   name:  Azure Administrator Associate (AZ-104)
-  url: "https://learn.microsoft.com/en-us/certifications/azure-administrator/"
+  url: "https://learn.microsoft.com/api/credentials/share/en-us/MariusBledea/367E55D797427299?sharingId=D8E208BBDA770BE2"
   badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-administrator-associate.svg"
 
 - type: certification
