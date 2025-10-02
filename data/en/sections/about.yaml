@@ -19,7 +19,7 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I am a DevOps Engineer with hands-on experience in designing and implementing scalable cloud infrastructure using Azure, Kubernetes, and Terraform. I specialize in automating deployment pipelines, ensuring secure and efficient delivery processes, and optimizing application performance in cloud-native environments. Passionate about clean architectures and best practices.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -129,7 +129,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 85  
   color: blue
 
 - type: soft-skill-indicator
