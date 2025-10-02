@@ -105,7 +105,7 @@ badges:
 - type: certification
   name: Azure Solutions Architect Expert (AZ-305)
   url: "https://learn.microsoft.com/api/credentials/share/en-us/MariusBledea/640A06F906B5FD44?sharingId=D8E208BBDA770BE2"
-  badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-solutions-architect-expert.svg"
+  badge: "https://images.credly.com/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png"
 
 - type: certification
   name: Azure DevOps Engineer Expert (AZ-400)
@@ -115,7 +115,7 @@ badges:
 - type: certification
   name:  Azure Administrator Associate (AZ-104)
   url: "https://learn.microsoft.com/api/credentials/share/en-us/MariusBledea/367E55D797427299?sharingId=D8E208BBDA770BE2"
-  badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-administrator-associate.svg"
+  badge: "https://images.credly.com/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
 
 - type: certification
   name: Azure Fundamentals (AZ-900)
