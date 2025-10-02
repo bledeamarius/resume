@@ -99,8 +99,33 @@ badges:
 
 - type: certification
   name: HashiCorp Certified Terraform Associate (002)
+  url: "https://www.credly.com/badges/518172f5-b5c6-4d8b-af30-e241b920b041"
   badge: "https://images.credly.com/size/680x680/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob"
 
+- type: certification
+  name: Azure Solutions Architect Expert (AZ-305)
+  url: "https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/"
+  badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-solutions-architect-expert.svg"
+
+- type: certification
+  name: Azure DevOps Engineer Expert (AZ-400)
+  url: "https://learn.microsoft.com/en-us/certifications/azure-devops-engineer/"
+  badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-devops-engineer-expert.svg"
+
+- type: certification
+  name:  Azure Administrator Associate (AZ-104)
+  url: "https://learn.microsoft.com/en-us/certifications/azure-administrator/"
+  badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-administrator-associate.svg"
+
+- type: certification
+  name: Azure Fundamentals (AZ-900)
+  url: "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/"
+  badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-fundamentals.svg"
+
+- type: certification
+  name: Azure Security Engineer Associate (AZ-500)
+  url: "https://learn.microsoft.com/en-us/certifications/azure-security-engineer/"
+  badge: "https://learn.microsoft.com/media/learn/certification/badges/azure-security-engineer-associate.svg"
 
 - type: soft-skill-indicator
   name: Leadership
