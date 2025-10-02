@@ -1,5 +1,0 @@
-name: PR Workflows
-
-on: [] # disables PR workflow
-
-jobs: {}
